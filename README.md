@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+this app will be built on ruby 2.6.1p33 and will be used to demonstrate my MVC and basic react.js
+knowledge.
