@@ -25,3 +25,5 @@ Things you may want to cover:
 
 this app will be built on ruby 2.6.1p33 and will be used to demonstrate my MVC and basic react.js
 knowledge.
+
+the app will have coins and the coins will have many reviews. 
