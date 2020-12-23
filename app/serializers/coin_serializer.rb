@@ -1,4 +1,6 @@
 class CoinSerializer
   include FastJsonapi::ObjectSerializer
-  attributes :name, :image, :slug
+  attributes :name, :image_url, :slug
+
+  has_many :reviews
 end
