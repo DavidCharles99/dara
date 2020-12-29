@@ -1,6 +1,7 @@
 module Api
   module V1
     class CoinsController < ApplicationController
+      protect_from_forgery with: :null_session
       def index
         coins = Coin.all
 
